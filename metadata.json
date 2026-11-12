@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Grants - Luxury Hotel in São Paulo",
+  "description": "Premium luxury hotel website for Hotel Grants in Vila Buarque, São Paulo featuring 4 dedicated pages, online room reservation engine, special packages, and instant WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
